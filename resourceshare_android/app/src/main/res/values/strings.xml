@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">面向多终资源共享系统</string>
+    <string name="title_home">首页</string>
+    <string name="title_download">文件下载</string>
+    <string name="title_upload">文件上传</string>
+    <string name="title_public">公共文件</string>
+    <string name="title_private">私人文件</string>
+    <string name="title_downloadList">下载列表</string>
+    <string name="title_activity_scan">扫描文件下载</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_show_share_code">文件共享码</string>
+    <string name="title_activity_login">登录</string>
+
+</resources>

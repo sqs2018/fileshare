@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_download"
+        android:icon="@drawable/download_icon"
+        android:title="@string/title_download" />
+
+    <item
+        android:id="@+id/navigation_fileupload"
+        android:icon="@drawable/upload_icon"
+        android:title="@string/title_upload" />
+
+    <item
+        android:id="@+id/navigation_public"
+        android:icon="@drawable/public_icon"
+        android:title="@string/title_public" />
+
+
+    <item
+        android:id="@+id/navigation_private"
+        android:icon="@drawable/private_icon"
+        android:title="@string/title_private" />
+    <!--<item
+        android:id="@+id/navigation_downloadList"
+        android:icon="@drawable/downloadlist"
+        android:title="@string/title_downloadList" />-->
+
+</menu>
